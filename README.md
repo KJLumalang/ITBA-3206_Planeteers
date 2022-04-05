@@ -23,6 +23,7 @@ Future Researchers - As for the future researcher, they can benefit on the study
 ##### Methods
 
 ##### Expected output
+Carbon dioxide and other greenhouse gas emissions from humans are a major contributor to climate change and one of the world's most important problems. Throughout Earth's history, there has always been a relationship between global temperatures and greenhouse gas concentrations, particularly carbon dioxide (CO2). Burning fossil fuels and transportation sector are one of the reasons why greenhouse gas emissions occur. To prevent or reduce this problem, This study plans to reduce the emission from transportation and electricity by generating electricity on-site using renewables and other environmentally acceptable energy sources, improving fuel efficiency with advanced design, materials, and technologies, using electric or hybrid automobiles provided that the energy is generated from lower-carbon or non-fossil fuels, generating electricity from nuclear energy rather than the combustion of fossil fuels and improving operating practices such as reducing engine-idling or reducing the average taxi time for aircraft.
 
 ##### Sustainable Development Goals (SDGs) of the Project
 The SDGs which this project aims to attain are Affordable and clean energy and Climate Action. These SDGs are further described as follows;
