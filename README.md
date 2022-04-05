@@ -6,6 +6,9 @@ Human activity has increased the amount of carbon dioxide in our atmosphere to l
 This study aims to provide solutions to the massive and increasing amount of greenhouse gas emissions by the means of data analysis. Data sets will be used to analyze and show the increasing amount of emissions and which or what are the sources of these emissions. 
 
 ##### Problem Statement
+Greenhouse gas emissions have far-reaching environmental and health consequences. They contribute to respiratory problems due to smog and air pollution, and they affect climate change by trapping heat. Other implications of climate change produced by greenhouse gases include extreme weather, food supply shortages, and increasing wildfires. The weather patterns we've come to expect will alter; some species will go extinct, while others will disappear or grow. This study will address the problems stated above and will provide measures for mitigating greenhouse gas emissions.
+
+
 ##### Significance of the proposed porject
 ##### Methods
 ##### Expected output
