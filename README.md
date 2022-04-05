@@ -23,11 +23,21 @@ Future Researchers - As for the future researcher, they can benefit on the study
 ##### Methods
 
 ##### Expected output
+
 ##### Sustainable Development Goals (SDGs) of the Project
 The SDGs which this project aims to attain are Affordable and clean energy and Climate Action. These SDGs are further described as follows;
 
 Goal 7: Affordable and clean energy - Ensure access to affordable, reliable, sustainable and modern energy for all.
 
 Goal 13: Climate action - Take urgent action to combat climate change and its impacts.
+
+
+##### References:
+
+https://www.c2es.org/content/international-emissions/
+
+https://www.ipcc.ch/report/ar4/wg1/
+
+https://afdc.energy.gov/vehicles/electric_emissions.html
 
 
