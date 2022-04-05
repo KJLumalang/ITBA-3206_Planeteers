@@ -35,10 +35,10 @@ Goal 13: Climate action - Take urgent action to combat climate change and its im
 
 ##### References:
 
-https://www.c2es.org/content/international-emissions/
+Global Emissions. Retrieved from https://www.c2es.org/content/international-emissions/
 
-https://www.ipcc.ch/report/ar4/wg1/
+IPCC.(n.d.). AR4 Climate Change 2007: The Physical Science Basis. Retrieved from https://www.ipcc.ch/report/ar4/wg1/
 
-https://afdc.energy.gov/vehicles/electric_emissions.html
+Alternative Fuels Data Center. Retrieved from https://afdc.energy.gov/vehicles/electric_emissions.html
 
 
