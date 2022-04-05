@@ -10,5 +10,20 @@ Greenhouse gas emissions have far-reaching environmental and health consequences
 
 
 ##### Significance of the proposed porject
+This study aims to tackle the impacts of the massive greenhouse gas emissions. It will also aims to provide mitigation strategies for reducing the rapidly increasing greenhouse gas emissions. This research will benefit the following:
+
+Community - The society will be educated by this research. They will know the disastrous impact of greenhouse gas emissions and what are the possible solutions for this. This could help to future developments of mitigation for the tackled issue.
+Government – This study will aid them in taking possible solutions/actions that the country might face if this problem is not solved. This study will help them to develop solutions while considering our environment. 
+Students - The students will be enlightened on the issue such that it will give awareness on how will they face the said problem. This research might also motivate them for developing plans to assist this global problem. 
+Future Researchers - As for the future researcher, they can benefit on the study as means as a guide, a tool and reference when conducting researches which has relevance to the study.
+
 ##### Methods
+
 ##### Expected output
+##### Sustainable Development Goals (SDGs) of the Project
+The SDGs which this project aims to attain are Affordable and clean energy and Climate Action. These SDGs are further described as follows;
+
+Goal 7: Affordable and clean energy - Ensure access to affordable, reliable, sustainable and modern energy for all.
+Goal 13: Climate action - Take urgent action to combat climate change and its impacts.
+
+
