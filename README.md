@@ -35,11 +35,14 @@ Goal 13: Climate action - Take urgent action to combat climate change and its im
 
 
 ##### References:
-
-Global Emissions. Retrieved from https://www.c2es.org/content/international-emissions/
+Global Manmade Greenhouse Gas Emissions by Sector, 2013. Retrieved from https://www.c2es.org/content/international-emissions/
 
 IPCC.(n.d.). AR4 Climate Change 2007: The Physical Science Basis. Retrieved from https://www.ipcc.ch/report/ar4/wg1/
 
 Alternative Fuels Data Center. Retrieved from https://afdc.energy.gov/vehicles/electric_emissions.html
 
-How do carbon emissions affect the environment from https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment
+How do carbon emissions affect the environment. Retrieved from https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment
+
+
+##### Data set:
+[Historical Emissions](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf%2Ctotal-including-lucf&page=1)
