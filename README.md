@@ -43,6 +43,12 @@ Alternative Fuels Data Center. Retrieved from https://afdc.energy.gov/vehicles/e
 
 How do carbon emissions affect the environment. Retrieved from https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment
 
+World Intellectual Property Organization. Transforming Greenhouse Gas Emissions into Energy. Retrieved from https://www.wipo.int/edocs/pubdocs/en/wipo_pub_951_3.pdf
+
+Kenneth Gillingham, James H. Stock. The Cost of Reducing Greenhouse Gas Emissions. Retrieved from https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.32.4.53
+
+
+
 
 ##### Data set:
 [Historical Emissions](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf%2Ctotal-including-lucf&page=1)
