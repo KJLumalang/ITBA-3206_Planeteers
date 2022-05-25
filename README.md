@@ -56,6 +56,9 @@ Kenneth Gillingham, James H. Stock. The Cost of Reducing Greenhouse Gas Emission
 
 ##### Presented By:
 Charles Adrian Delacion
+
 Kim Jeiro Lumalang
+
 Neil Chester Gamboa
+
 Rommel Reyes
