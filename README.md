@@ -52,3 +52,10 @@ Kenneth Gillingham, James H. Stock. The Cost of Reducing Greenhouse Gas Emission
 
 ##### Data set:
 [Historical Emissions](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf%2Ctotal-including-lucf&page=1)
+
+
+##### Presented By:
+Charles Adrian Delacion
+Kim Jeiro Lumalang
+Neil Chester Gamboa
+Rommel Reyes
