@@ -35,20 +35,25 @@ Goal 13: Climate action - Take urgent action to combat climate change and its im
 
 
 ##### References:
-Global Manmade Greenhouse Gas Emissions by Sector, 2013. Retrieved from https://www.c2es.org/content/international-emissions/
+Global Emissions. (2022, March 24). Center for Climate and Energy Solutions. https://www.c2es.org/content/international-emissions/
 
-IPCC.(n.d.). AR4 Climate Change 2007: The Physical Science Basis. Retrieved from https://www.ipcc.ch/report/ar4/wg1/
+AR4 Climate Change 2007: The Physical Science Basis. IPCC. (n.d.). Retrieved from https://www.ipcc.ch/report/ar4/wg1/ 
 
-Alternative Fuels Data Center. Retrieved from https://afdc.energy.gov/vehicles/electric_emissions.html
+Emissions from electric vehicles. Alternative Fuels Data Center: Emissions from Electric Vehicles. (n.d.). Retrieved from https://afdc.energy.gov/vehicles/electric_emissions.html 
 
-How do carbon emissions affect the environment. Retrieved from https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment
+Stephosmanski. (2020, March 30). How do carbon emissions affect the environment? Green Matters. Retrieved from https://www.greenmatters.com/p/how-do-carbon-emissions-affect-environment 
 
-World Intellectual Property Organization. Transforming Greenhouse Gas Emissions into Energy. Retrieved from https://www.wipo.int/edocs/pubdocs/en/wipo_pub_951_3.pdf
+World Intellectual Property Organization. Transforming greenhouse gas emissions into energy - WIPO. (n.d.). Retrieved from https://www.wipo.int/edocs/pubdocs/en/wipo_pub_951_3.pdf 
 
-Kenneth Gillingham, James H. Stock. The Cost of Reducing Greenhouse Gas Emissions. Retrieved from https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.32.4.53
+Kenneth G., James H. S. The cost of reducing greenhouse gas emissions. (n.d.). Retrieved from https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.32.4.53 
 
+Quiang, Z., Huajun, C., Xiang, Z., & Chris, Y. (2011). Reducing greenhouse gas emissions of global automotive manufacturing through clean energy supply: Cost benefit analysis. IEEE Xplore. (n.d.). Retrieved May 29, 2022, from https://ieeexplore.ieee.org/document/5936860 
 
-
+ Zhao, J. (2010). Greenhouse gas abatement analysis of the energy saving retrofit in pulverized coal power plants. IEEE Xplore. Retrieved May 29, 2022, from https://ieeexplore.ieee.org/document/5448559 
+ 
+ Cao, H., Zhai, Q., Alberts, S., Zhao, S., &amp; Yuan, C. (2010). Greenhouse gas emission mitigation of global automotive manufacturing through Clean Energy Supply. IEEE Xplore. Retrieved from https://ieeexplore.ieee.org/document/5507715 
+ 
+ Adiaha, A., B., &amp; Tangban, E. E. (2020). Find and explore academic papers. Connected Papers. Retrieved from https://www.connectedpapers.com/main/141e72b460b46422703f8d7e39bc1afeb51d048a/Mitigating-Global-Greenhouse-Gas-Emission%3A-The-Role-of-Trees-as-a-Clean-Mechanism-For-CO2-Sequestration/graph 
 
 ##### Data set:
 [Historical Emissions](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf%2Ctotal-including-lucf&page=1)
