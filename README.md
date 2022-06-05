@@ -57,6 +57,11 @@ Quiang, Z., Huajun, C., Xiang, Z., & Chris, Y. (2011). Reducing greenhouse gas e
 
 ##### Data set:
 [Historical Emissions](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf%2Ctotal-including-lucf&page=1)
+
+
+
+
+
 [Natural Disaster Deaths By Country](https://ourworldindata.org/grapher/natural-disaster-deaths-ihme?tab=chart&region=Asia&country=~PHL&fbclid=IwAR19v5Pbk1EN-tKMvQAH6gd_Vt7MM3BK2zsfy1oL7d-N4KTkUerQr0SK1yE)
 
 
