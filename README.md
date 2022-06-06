@@ -53,7 +53,7 @@ Quiang, Z., Huajun, C., Xiang, Z., & Chris, Y. (2011). Reducing greenhouse gas e
  
  Cao, H., Zhai, Q., Alberts, S., Zhao, S., &amp; Yuan, C. (2010). Greenhouse gas emission mitigation of global automotive manufacturing through Clean Energy Supply. IEEE Xplore. Retrieved from https://ieeexplore.ieee.org/document/5507715 
  
- Adiaha, A., B., &amp; Tangban, E. E. (2020). Find and explore academic papers. Connected Papers. Retrieved from https://www.connectedpapers.com/main/141e72b460b46422703f8d7e39bc1afeb51d048a/Mitigating-Global-Greenhouse-Gas-Emission%3A-The-Role-of-Trees-as-a-Clean-Mechanism-For-CO2-Sequestration/graph 
+ Adiaha, A., B., &amp; Tangban, E. E. (2020). Mitigating Global Greenhouse Gas Emission: The Role of Trees as a Clean Mechanism For CO2 Sequestration. Connected Papers. Retrieved from https://www.connectedpapers.com/main/141e72b460b46422703f8d7e39bc1afeb51d048a/Mitigating-Global-Greenhouse-Gas-Emission%3A-The-Role-of-Trees-as-a-Clean-Mechanism-For-CO2-Sequestration/graph 
 
 ##### Data set:
 [Historical Emissions](https://www.climatewatchdata.org/data-explorer/historical-emissions?historical-emissions-data-sources=cait&historical-emissions-gases=all-ghg&historical-emissions-regions=All%20Selected&historical-emissions-sectors=total-including-lucf%2Ctotal-including-lucf&page=1)
